@@ -1,0 +1,67 @@
+#part1{
+    background-image: url(Images/Vector-1.png);
+    width: 50%;
+}
+#first{
+    float: left;       
+}
+#form{
+    float: right;      
+}
+#clear{
+    clear: left;
+}
+#location{
+    text-align: center;
+}
+#final{
+    position: fixed;
+    bottom: 22px;
+    z-index: 10000;
+    float: right;
+    right: 21px;
+    cursor: pointer;
+    vertical-align: middle !important;
+    margin: auto;
+}
+
+img {
+    border: 0;
+}
+.pic{
+    width: 300px;
+    border: 1px solid gainsboro;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#submit,name,mail,company,number,comment{
+    width: 50%;
+}
+#submit{
+    background-color: orangered;
+    color: white;
+}
+.Morrisvile{
+    float: left;
+}
+.Karuna{
+    float: right;
+}
+#part3:hover{
+    background-color: white;
+}
+
+#final{
+    padding-left: 800px;
+    position: fixed;
+   
+}
+#menu
+{
+    background-image: url("Images/Vector-1.png" );
+    background-color: white;
+    list-style-type: none;
+}
